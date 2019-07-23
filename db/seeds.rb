@@ -1,9 +1,9 @@
 # coding: utf-8
 
 User.create!(name: "Sample User",
-             email: "sample@email.com",
-             password: "password",
-             password_confirmation: "password",
+             email: "serasu123@gmail.com",
+             password: "power123",
+             password_confirmation: "power123",
              admin: true)
 
 60.times do |n|
